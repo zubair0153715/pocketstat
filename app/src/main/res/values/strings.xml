@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PocketStat</string>
+    <string name="tab_data">Data</string>
+    <string name="tab_analyze">Analyze</string>
+    <string name="tab_charts">Charts</string>
+    <string name="add_row">+ Row</string>
+    <string name="add_column">+ Column</string>
+    <string name="import_csv">Import CSV</string>
+    <string name="load_sample">Sample data</string>
+    <string name="clear_all">Clear</string>
+    <string name="descriptives_title">Descriptive statistics</string>
+    <string name="pick_column">Column:</string>
+    <string name="calculate">Calculate</string>
+    <string name="ttest_title">Independent-samples t-test</string>
+    <string name="group1">Group 1:</string>
+    <string name="group2">Group 2:</string>
+    <string name="run_test">Run t-test</string>
+    <string name="copy_results">Copy</string>
+    <string name="share_results">Share</string>
+    <string name="chart_column">Column to plot:</string>
+    <string name="histogram_title">Histogram</string>
+    <string name="boxplot_title">Boxplot</string>
+    <string name="anova_title">One-way ANOVA</string>
+    <string name="pick_groups">Tick 2 or more columns as groups:</string>
+    <string name="run_anova">Run ANOVA</string>
+    <string name="chisq_title">Chi-square test of independence</string>
+    <string name="row_variable">Row variable:</string>
+    <string name="col_variable">Column variable:</string>
+    <string name="run_chisq">Run chi-square</string>
+    <string name="corr_title">Pearson correlation</string>
+    <string name="var_x">Variable X:</string>
+    <string name="var_y">Variable Y:</string>
+    <string name="run_corr">Run correlation</string>
+    <string name="regress_title">Simple linear regression</string>
+    <string name="predictor_x">Predictor (X):</string>
+    <string name="outcome_y">Outcome (Y):</string>
+    <string name="run_regress">Run regression</string>
+</resources>
